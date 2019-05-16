@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\DAD\\Source\\Repos\\interview\\YW\\Solution\\RouteServiceCommon\\RouteServiceCommon.csproj": {}
+    "C:\\Users\\DAD\\source\\repos\\MyService\\MySolution\\RouteServiceCommon\\RouteServiceCommon.csproj": {}
   },
   "projects": {
-    "C:\\Users\\DAD\\Source\\Repos\\interview\\YW\\Solution\\RouteServiceCommon\\RouteServiceCommon.csproj": {
+    "C:\\Users\\DAD\\source\\repos\\MyService\\MySolution\\RouteServiceCommon\\RouteServiceCommon.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\DAD\\Source\\Repos\\interview\\YW\\Solution\\RouteServiceCommon\\RouteServiceCommon.csproj",
+        "projectUniqueName": "C:\\Users\\DAD\\source\\repos\\MyService\\MySolution\\RouteServiceCommon\\RouteServiceCommon.csproj",
         "projectName": "RouteServiceCommon",
-        "projectPath": "C:\\Users\\DAD\\Source\\Repos\\interview\\YW\\Solution\\RouteServiceCommon\\RouteServiceCommon.csproj",
+        "projectPath": "C:\\Users\\DAD\\source\\repos\\MyService\\MySolution\\RouteServiceCommon\\RouteServiceCommon.csproj",
         "packagesPath": "C:\\Users\\DAD\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\DAD\\Source\\Repos\\interview\\YW\\Solution\\RouteServiceCommon\\obj\\",
+        "outputPath": "C:\\Users\\DAD\\source\\repos\\MyService\\MySolution\\RouteServiceCommon\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\ProgramData\\Xamarin\\NuGet\\",

@@ -5962,11 +5962,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\DAD\\Source\\Repos\\interview\\YW\\Solution\\XUTestRouteService\\XUTestRouteService.csproj",
+      "projectUniqueName": "C:\\Users\\DAD\\source\\repos\\MyService\\MySolution\\XUTestRouteService\\XUTestRouteService.csproj",
       "projectName": "XUTestRouteService",
-      "projectPath": "C:\\Users\\DAD\\Source\\Repos\\interview\\YW\\Solution\\XUTestRouteService\\XUTestRouteService.csproj",
+      "projectPath": "C:\\Users\\DAD\\source\\repos\\MyService\\MySolution\\XUTestRouteService\\XUTestRouteService.csproj",
       "packagesPath": "C:\\Users\\DAD\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\DAD\\Source\\Repos\\interview\\YW\\Solution\\XUTestRouteService\\obj\\",
+      "outputPath": "C:\\Users\\DAD\\source\\repos\\MyService\\MySolution\\XUTestRouteService\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\ProgramData\\Xamarin\\NuGet\\",
@@ -5987,11 +5987,11 @@
       "frameworks": {
         "netcoreapp2.1": {
           "projectReferences": {
-            "C:\\Users\\DAD\\Source\\Repos\\interview\\YW\\Solution\\MyRouteService\\MyRouteService.csproj": {
-              "projectPath": "C:\\Users\\DAD\\Source\\Repos\\interview\\YW\\Solution\\MyRouteService\\MyRouteService.csproj"
+            "C:\\Users\\DAD\\source\\repos\\MyService\\MySolution\\MyRouteService\\MyRouteService.csproj": {
+              "projectPath": "C:\\Users\\DAD\\source\\repos\\MyService\\MySolution\\MyRouteService\\MyRouteService.csproj"
             },
-            "C:\\Users\\DAD\\Source\\Repos\\interview\\YW\\Solution\\RouteServiceCommon\\RouteServiceCommon.csproj": {
-              "projectPath": "C:\\Users\\DAD\\Source\\Repos\\interview\\YW\\Solution\\RouteServiceCommon\\RouteServiceCommon.csproj"
+            "C:\\Users\\DAD\\source\\repos\\MyService\\MySolution\\RouteServiceCommon\\RouteServiceCommon.csproj": {
+              "projectPath": "C:\\Users\\DAD\\source\\repos\\MyService\\MySolution\\RouteServiceCommon\\RouteServiceCommon.csproj"
             }
           }
         }
